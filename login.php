@@ -43,9 +43,7 @@
         }
     }
     else
-    {
- 	//  $message = "Invalid username or password!"; 
-	
+    {	
 	 echo  "Invalid username or password!";
     }
   }
