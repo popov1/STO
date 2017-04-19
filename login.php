@@ -13,8 +13,6 @@
 	if(isset($_SESSION["session_username"])){
 	// вывод "Session is set"; // в целях проверки
 	header("Location: intropage.php");
-	//
-	//header("Location: index.php");
 	}
 
 	if(isset($_POST["login"]))
